@@ -1,0 +1,1 @@
+ /Users/amaralhidi769gmail.com/Desktop/admin_kajian/.dart_tool/flutter_build/e569bdff889832eb7a6a4468f6fb5606/dart_build_result.json:  /Users/amaralhidi769gmail.com/Desktop/admin_kajian/.dart_tool/package_config.json /Users/amaralhidi769gmail.com/Desktop/admin_kajian/pubspec.yaml /opt/homebrew/share/flutter/bin/cache/dart-sdk/version
